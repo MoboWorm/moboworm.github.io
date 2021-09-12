@@ -1,7 +1,7 @@
 ---
 title: "Post: Quote"
 categories:
-  - Blog
+  - jekyll
 tags:
   - Post Formats
   - quote
